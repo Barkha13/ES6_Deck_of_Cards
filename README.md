@@ -1,4 +1,4 @@
-Create Deck of cards
+Create a Deck of cards
 
 Shuffle Deck
 
