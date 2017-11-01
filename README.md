@@ -1,5 +1,3 @@
-# ES6_Deck_of_Cards
-
 Create Deck of cards
 
 Shuffle Deck
