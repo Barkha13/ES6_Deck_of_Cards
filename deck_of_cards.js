@@ -30,7 +30,7 @@ class Deck {
       return this.deck_list;
     }
     dealCard(){
-        let index = Math.floor(Math.random()*53);
+        let index = Math.floor(Math.random()*this.deck_list.length);
         let deal_card = this.deck_list[index];
         if (index > -1) {
             this.deck_list.splice(index, 1);
